@@ -1,3 +1,5 @@
+#![allow(elided_lifetimes_in_paths)]
+#![allow(unexpected_cfgs)]
 //! Timestamps for files in Rust
 //!
 //! This library provides platform-agnostic inspection of the various timestamps
